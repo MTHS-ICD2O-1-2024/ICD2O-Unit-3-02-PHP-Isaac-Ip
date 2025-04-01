@@ -25,16 +25,18 @@
         <span class="mdl-layout-title">Volume of a Pyramid, in PHP</span>
       </div>
     </header>
-<?php
-echo "Formula: <br>
-[l x w x h] / 3"
-?>
     <main class="mdl-layout__content">
       <div class="right-image">
         <img src="./images/pyramid.png" alt="pyramid image" width="250" />
       </div>
       <br />
-      <div class="page-content">Please enter dimensions of the pyramid:</div>
+      <div class="page-content">Please enter dimensions of the pyramid:
+        <br>
+        <br>
+        Formula:
+        <br>
+        [l x w x h] / 3"
+      </div>
       <div class="page-content-php">
         <form action="answer.php" method="GET">
           <br />
