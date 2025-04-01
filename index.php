@@ -35,7 +35,7 @@
         <br>
         Formula:
         <br>
-        [l x w x h] / 3
+        V = [l x w x h] / 3
       </div>
       <div class="page-content-php">
         <form action="answer.php" method="GET">
