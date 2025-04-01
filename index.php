@@ -34,7 +34,6 @@
       <div class="page-content-php">
         <form action="answer.php" method="GET">
           <br />
-          // Length
           <div></div>
           <form action="#">
           Length:
@@ -56,7 +55,6 @@
       mm
       </form>
           <br />
-          // Width
           <div></div>
           <form action="#">
           Width:
@@ -78,7 +76,6 @@
       mm
       </form>
           <br />
-          // Height
           <div></div>
           <form action="#">
           Height:
