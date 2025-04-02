@@ -41,7 +41,7 @@
           $volume = ($length * $width * $height) / 3;
 
           // output
-          echo "The volume of a pyramid is " . $volume . " cm³.";
+          echo "The volume of a pyramid is " . $volume . " mm³.";
           ?>
         </div>
       </div>
